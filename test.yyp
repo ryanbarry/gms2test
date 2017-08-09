@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "789bacb5-8b07-41df-b278-096629df8ad1",
+            "Value": {
+                "id": "b10857f1-6655-4a77-86cf-dd9bcd3b4736",
+                "resourcePath": "objects\\oController\\oController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e360b50-df39-40d2-a707-c1b202059ef9",
             "Value": {
                 "id": "da3ef416-f4eb-4c37-9c04-716947e8990e",
